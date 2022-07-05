@@ -76,7 +76,7 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/TorugoH/TorugoH/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://raw.githubusercontent.com/TorugoH/TorugoH/output/snake.svg" alt="Snake animation" />
 
 ###
 
