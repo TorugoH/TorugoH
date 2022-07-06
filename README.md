@@ -75,8 +75,11 @@
 ###
 
 <br clear="both">
-<img href="https://raw.githubusercontent.com/TorugoH/TorugoH/output/snake.svg" alt="Snake animation"/>
- ![Snake animation](https://raw.githubusercontent.com/TorugoH/TorugoH/output/snake.svg)
+
+<img src="https://raw.githubusercontent.com/TorugoH/TorugoH/output/snake.svg" alt="Snake animation" />
+
+![Snake animation](https://raw.githubusercontent.com/TorugoH/TorugoH/output/snake.svg)
+
 ###
 
 <br clear="both">
