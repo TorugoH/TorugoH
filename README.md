@@ -76,7 +76,7 @@
 
 <br clear="both">
 
- ![Snake animation](https://github.com/TorugoH/TorugoH/blob/output/snake.svg)
+ ![Snake animation](https://raw.githubusercontent.com/TorugoH/TorugoH/output/snake.svg)
 ###
 
 <br clear="both">
