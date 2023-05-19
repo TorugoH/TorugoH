@@ -42,6 +42,10 @@ Olá ! Sou o Vitor, estudante de Análise e Desenvolvimento de Sistemas na Ponti
 <br clear="both">
 
 <h2> Projetos </h2>
+<h3>Python </h3>
+<ul>
+   <li><a href="https://github.com/TorugoH/Analise-caso-covid/blob/main/Untitled-1.ipynb"> Análise dos caso de covid por pais e ano</a></li>
+ </ul>
 <br clear="both">
 <div>
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=true&username=TorugoH" height="150" alt="stats graph"  />
