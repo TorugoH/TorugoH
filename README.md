@@ -4,46 +4,45 @@
 
 ###
 
-<p>Atualmente estou atuando com estagiario em Análise de dados na empresa SIMASLOG. No estágio utilizo tecnologias como o Python, SQL e PowerBI como uma ferramenta para a visualização dos dados. Tenho conhecimento em desenvolvimento front-end</p>
-
+Olá ! Sou o Vitor, estudante de Análise e Desenvolvimento de Sistemas na Pontifícia Universidade Católica de Minas Gerais, com habilidades em análise de dados e criação de dashboards usando o **Power BI**, bem como em tratamento e análise de dados com **Python** utilizando o Pandas. Atualmente estagiando na Simas Logística, onde sou responsável pela criação de dashboards para visualização de indicadores, além de extrair relatórios do sistemas SILT via **SQL**, e responsavel pela manutanções dos indicadores. Sou comprometido, dedicado e sempre em busca de desenvolver minhas habilidades e conhecimentos em análise de dados
 ###
 
+<h2>Experiencias profissionais</h2>
+<p>Analista de dados - SIMASLOG</p>
+<p>Jan 2022 - Presente</p>
+<p>habilidades desenvolvidas :</p>
+<ul>
+  <li>Criação de dashboards utilizando a ferramenta power BI</li>
+  <li>Processamento de dados, </li>
+  <li>Extração de dados usando SQL, </li>
+  <li>Tratamento de dados com Python</li> 
+  <li>Manutenção de indicadores</li>
+  <li>Extração de dados do banco de dados oracle</li>
+</ul>
 
-###
+<h2>Hard skills</h2>
+<ul>
+  <li>Power BI</li>
+  <li>SQL</li>
+  <li>Banco de dados oracle</li>
+  <li>Python</li> 
+  <li>Pandas</li>
+  <li>Análise de dados</li>
+</ul>
 
-
-###
-
-###
-
+<h2>Soft skills</h2>
+<ul>
+  <li>Comprometimento</li>
+  <li>Trabalho em equipe</li>
+  <li>Pensamento crítico</li>
+  <li>Capacidade de adaptação</li> 
+  <li>Facil aprendizado</li>
+  <li>Empatia</li>
+</ul>
 <br clear="both">
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"height="40" width="52" />
-          
-          
-          
-</div>
-
-###
-
-<h2>Minhas redes sociais.</h2>
-
-###
-
-<div>
-<a href="https://www.linkedin.com/in/vitor-hugo-silva-ribeiro-4a2297201/">  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-</div>
-
-###
-
-<h2></h2>
-
-###
-
+<h2> Projetos </h2>
 <br clear="both">
-
 <div>
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=true&username=TorugoH" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&username=TorugoH" height="150" alt="languages graph"  />
