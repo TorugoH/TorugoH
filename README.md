@@ -42,6 +42,11 @@ Olá ! Sou o Vitor, estudante de Análise e Desenvolvimento de Sistemas na Ponti
 <br clear="both">
 
 <h2> Projetos </h2>
+
+<h3>Power BI </h3>
+   
+   <li><a href="https://app.powerbi.com/view?r=eyJrIjoiZGM5OTU0YjEtZTgxNi00ZjZjLWFkN2EtMzFlYjUyM2M3ZTQ3IiwidCI6IjY5YWYxMTZmLWIzYjgtNGQwYi1iYzk4LWQyOWRlN2M2MWRkNCJ9"> BI - RH </a></li>
+   
 <h3>Python </h3>
 <ul>
    <li><a href="https://github.com/TorugoH/Analise-caso-covid/blob/main/Untitled-1.ipynb"> Análise dos caso de covid por pais e ano</a></li>
