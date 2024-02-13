@@ -2,7 +2,7 @@
 
 Oi 👋 Meu nome é Vitor Hugo Silva Ribeiro 
 =========================================  
- Desenvolvedor Back-end
+ Desenvolvedor Full-Stack
 -------------------------  
 * 🌍 Estou localizado em Belo Horizonte, Minas Gerais - Brasil
 * 🖥️ Veja meu portfólio no [GitHub](http://https://github.com/TorugoH)
