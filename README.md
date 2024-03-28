@@ -30,10 +30,10 @@ Oi 👋, Sou o Vitor Hugo Silva Ribeiro
   
 -------------------------
 
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TorugoH&layout=compact&theme=dark)| ![Athirson's GitHub stats](https://github-readme-stats.vercel.app/api?username=TorugoH&include=private&theme=dark&show_icons=true&hide_border=True&line_height=20&PAT_1) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TorugoH&layout=compact&theme=dark)| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TorugoH&show_icons=true&theme=dark) |
 | ----------- | ----------- |
-| ![GitHub Commits](https://github-readme-streak-stats.herokuapp.com/?user=TorugoH&theme=dark&ring=e73737&currStreakNum=ffffff&hide_border=true) | ![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TorugoH&theme=dark) 
-![Trophies](https://github-profile-trophy.vercel.app/?username=TorugoH&row=1&column=6&theme=dark&margin-w=15&margin-h=15) 
+| ![GitHub Commits](https://github-readme-streak-stats.herokuapp.com/?user=TorugoH&theme=dark) | ![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TorugoH&theme=dark) 
+
 
 
 <br>
