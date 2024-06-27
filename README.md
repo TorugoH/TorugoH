@@ -39,31 +39,31 @@ Ferramentas
 </p>
  
 
-<table border="0">
+   <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TorugoH&layout=compact&theme=dark&hide_border=true" width="400" height="300" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TorugoH&layout=compact&theme=dark&hide_border=true" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=TorugoH&show_icons=true&theme=dark&hide_border=true" width="400" height="300" />
+      <img src="https://github-readme-stats.vercel.app/api?username=TorugoH&show_icons=true&theme=dark&hide_border=true"  />
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=TorugoH&theme=dark&hide_border=true" width="400" height="300" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=TorugoH&theme=dark&hide_border=true"  />
     </td>
     <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TorugoH&theme=dark" width="400" height="300" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TorugoH&theme=dark"  />
     </td>
   </tr>
 </table>
 
 
 
+
     
 
 
-<br>
 
 -------------------------
 
