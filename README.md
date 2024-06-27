@@ -39,14 +39,27 @@ Ferramentas
 </p>
  
 
-<div>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TorugoH&layout=compact&theme=dark&hide_border=true" width="450" height="300" position="relative" top="-12em" />
- <img src="https://github-readme-stats.vercel.app/api?username=TorugoH&show_icons=true&theme=dark&hide_border=true" width="500" height="500" top="20" /> 
-</div>
-<div>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=TorugoH&theme=dark&hide_border=true" width="500" height="600" />
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TorugoH&theme=dark" width="500" height="600" />
-</div>
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TorugoH&layout=compact&theme=dark&hide_border=true" width="400" height="300" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=TorugoH&show_icons=true&theme=dark&hide_border=true" width="400" height="300" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=TorugoH&theme=dark&hide_border=true" width="400" height="300" />
+    </td>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TorugoH&theme=dark" width="400" height="300" />
+    </td>
+  </tr>
+</table>
+
+
+
     
 
 
