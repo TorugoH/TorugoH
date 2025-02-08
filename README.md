@@ -10,7 +10,6 @@ Sou o Vitor Hugo, Desenvolvedor Full-Stack
 
 💼 Tenho experiência na estruturação de projetos e estou comprometido em contribuir de maneira eficaz para projetos desafiadores. Fui monitor de desenvolvimento mobile na PUC Minas e destaquei-me com um projeto de qualidade no quarto semestre. Durante meu estágio na área de dados, desenvolvi habilidades em SQL, Python e banco de dados, além de implementar algoritmos para automatizar a extração de dados para BI.
 
-👤 Sou altamente motivado, proativo e capaz de trabalhar eficientemente tanto de forma independente quanto em equipe.
 </p>
 
 
