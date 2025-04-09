@@ -6,7 +6,7 @@ Sou o Vitor Hugo, Desenvolvedor Full-Stack
 =========================================  
 
 <p>
- 👨🏽‍🎓 Sou um desenvolvedor de software apaixonado por programação e aprendizado contínuo, recém-graduado em Análise e Desenvolvimento de Sistemas. Possuo habilidades sólidas em Java, Spring Boot, SQL, React, React Native, APIs REST, CSS, Git, Azure, PostgreSQL e MySQL.
+ 👨🏽‍🎓 Sou um desenvolvedor de software apaixonado por programação e aprendizado contínuo, graduado em Análise e Desenvolvimento de Sistemas. Possuo habilidades sólidas em Java, Spring Boot, SQL, Angula, APIs REST, CSS, Git, PostgreSQL.
 
 💼 Tenho experiência na estruturação de projetos e estou comprometido em contribuir de maneira eficaz para projetos desafiadores. Fui monitor de desenvolvimento mobile na PUC Minas e destaquei-me com um projeto de qualidade no quarto semestre. Durante meu estágio na área de dados, desenvolvi habilidades em SQL, Python e banco de dados, além de implementar algoritmos para automatizar a extração de dados para BI.
 
